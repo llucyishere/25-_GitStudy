@@ -1,0 +1,1 @@
+shecreatedanewfile,added,stagedit,andcommited,pushedtotherepositiory. 
